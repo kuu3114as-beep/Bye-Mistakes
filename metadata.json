@@ -1,0 +1,7 @@
+{
+  "name": "Bye Mistakes",
+  "description": "あなたの学習をサポートするAIチャットアプリ。オンボーディングであなたの情報を聞き、パーソナライズされた学習体験を提供します。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
